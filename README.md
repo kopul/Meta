@@ -1,4 +1,4 @@
-# Raven B+
+# Meta Client
 <p align="center">
   <img src="https://img.shields.io/badge/MC-1.8.9-brightgreen.svg" alt="Minecraft"/>
 </p>
@@ -16,19 +16,15 @@
   <img src="https://img.shields.io/github/languages/top/Kopamed/Raven-bPLUS" alt="Java"/>
 </p>
 
-##### Discontinued due to lack of time, motivation, and because I no longer play.
-
-Raven b+ is built on top of Raven b3, adding quality of life improvements, bug fixes, and much more.<br>
+Meta is built on top of Raven b+ which is built on top of Raven b3, adding quality of life improvements, bug fixes, and much more.<br>
 Discord:<br>
-<a href="https://discord.gg/QQMQfCRyNP"><img src="https://invidget.switchblade.xyz/QQMQfCRyNP" alt="https://discord.gg/QQMQfCRyNP"/></a><br>
-Backup: <br>
-<a href="https://discord.gg/XhVt9NMtBE"><img src="https://invidget.switchblade.xyz/XhVt9NMtBE" alt="https://discord.gg/XhVt9NMtBE"/></a><br>
+<a href="https://discord.gg/gV9A4T6X8Q"><img src="https://invidget.switchblade.xyz/QQMQfCRyNP" alt="https://discord.gg/gV9A4T6X8Q"/></a><br>
 
 # Installation
 ## User
-[Latest Stable](https://github.com/Kopamed/Raven-bPLUS/raw/main/build/libs/%5B1.8.9%5D%20BetterKeystrokes%20V-1.2.jar) <br>
-[Latest Experimental](https://github.com/Kopamed/Raven-bPLUS/raw/lunarkeystrokes/build/libs/%5B1.8.9%5DLunarKeystrokes%20B-1.jar) (basically stable but with some more stuff)<br>
-[Latest Beta](https://github.com/Kopamed/Raven-bPLUS/raw/new-base/build/libs/RavenB%2B-1.jar) probably won't even work or will crash frequently. Or have a lot of bugs
+[Latest Stable](https://github.com/xandernp/Meta/raw/main/build/libs/%5B1.8.9%5D%20BetterKeystrokes%20V-1.2.jar) <br>
+[Latest Experimental](https://github.com/xandernp/Meta/raw/lunarkeystrokes/build/libs/%5B1.8.9%5DLunarKeystrokes%20B-1.jar) (basically stable but with some more stuff)<br>
+[Latest Beta](https://github.com/xandernp/Meta/raw/new-base/build/libs/RavenB%2B-1.jar) probably won't even work or will crash frequently. Or have a lot of bugs
 
 ## Build
 1. [Get](https://gradle.org/next-steps/?version=2.7&format=bin) and [install](https://docs.gradle.org/current/userguide/installation.html) gradle.
@@ -53,8 +49,3 @@ Too much to list. But I am also very good at creating bugs... *cough cough* I me
 
 ## Contributing
 You should follow [this](https://gist.github.com/MarcDiethelm/7303312#file-contributing-md) guide to contribute code to the repo. Ideally, try to work on the [new-base](https://github.com/Kopamed/Raven-bPLUS/tree/new-base) branch as it will soon get merged into main. Find things to do in the todo above
-
-#### Readme last updated on 16/01/2022. Bug and update info and other stuff may be out of date. 
-
-[![Stargazers over time](https://starchart.cc/Kopamed/Raven-bPLUS.svg)](https://starchart.cc/Kopamed/Raven-bPLUS)
-<br> Started on the 27th of July 2021. Archived on the 19th August 2022.
