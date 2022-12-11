@@ -16,13 +16,12 @@
   <img src="https://img.shields.io/github/languages/top/Kopamed/Raven-bPLUS" alt="Java"/>
 </p>
 
-Meta is a fork of Raven b+ which is built on top of Raven b3, adding quality of life improvements, bug fixes, and much more.<br>
+Meta is a fork of Raven b+ which is built on top of Raven b3, adding quality of life improvements, bug fixes, and much more.
 
 ## Discord:
 https://discord.gg/gV9A4T6X8Q
 
-# Installation
-## User
+## Installation
 [Latest Stable](https://github.com/xandernp/Meta/raw/main/build/libs/%5B1.8.9%5D%20BetterKeystrokes%20V-1.2.jar) <br>
 [Latest Experimental](https://github.com/xandernp/Meta/raw/lunarkeystrokes/build/libs/%5B1.8.9%5DLunarKeystrokes%20B-1.jar) (basically stable but with some more stuff)<br>
 [Latest Beta](https://github.com/xandernp/Meta/raw/new-base/build/libs/RavenB%2B-1.jar) probably won't even work or will crash frequently. Or have a lot of bugs
