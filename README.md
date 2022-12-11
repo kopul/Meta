@@ -16,7 +16,9 @@
   <img src="https://img.shields.io/github/languages/top/Kopamed/Raven-bPLUS" alt="Java"/>
 </p>
 
-Meta is a fork of Raven b+ which is built on top of Raven b3, adding quality of life improvements, bug fixes, and much more.
+<p align="center"> 
+  Meta is a fork of Raven b+ which is built on top of Raven b3, adding quality of life improvements, bug fixes, and much more.
+</p>
 
 ## Discord:
 https://discord.gg/gV9A4T6X8Q
