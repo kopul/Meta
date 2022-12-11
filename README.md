@@ -17,7 +17,8 @@
 </p>
 
 Meta is a fork of Raven b+ which is built on top of Raven b3, adding quality of life improvements, bug fixes, and much more.<br>
-Discord:<br>
+
+## Discord:
 https://discord.gg/gV9A4T6X8Q
 
 # Installation
