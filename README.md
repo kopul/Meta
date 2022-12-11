@@ -16,9 +16,9 @@
   <img src="https://img.shields.io/github/languages/top/Kopamed/Raven-bPLUS" alt="Java"/>
 </p>
 
-Meta is built on top of Raven b+ which is built on top of Raven b3, adding quality of life improvements, bug fixes, and much more.<br>
+Meta is a fork of Raven b+ which is built on top of Raven b3, adding quality of life improvements, bug fixes, and much more.<br>
 Discord:<br>
-<a href="https://discord.gg/gV9A4T6X8Q"><img src="https://invidget.switchblade.xyz/QQMQfCRyNP" alt="https://discord.gg/gV9A4T6X8Q"/></a><br>
+https://discord.gg/gV9A4T6X8Q
 
 # Installation
 ## User
@@ -31,11 +31,6 @@ Discord:<br>
 2. Download and clone repo to a folder.
 3. Open terminal/command prompt and type ./gradlew build
 4. Find the build in builds/libs in the direcotry you cloned this to.
-
-# Client
-
-## Screenshots
-https://imgur.com/a/X3G5R6W
 
 ## Known bugs
  - Discord RPC don't work on DARWIN (Mac OS)
