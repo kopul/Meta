@@ -44,4 +44,4 @@ or dm me directly - xander#5062
 Too much to list. But I am also very good at creating bugs... *cough cough* I mean features
 
 ## Contributing
-You should follow [this](https://gist.github.com/MarcDiethelm/7303312#file-contributing-md) guide to contribute code to the repo. Ideally, try to work on the [new-base](https://github.com/Kopamed/Raven-bPLUS/tree/new-base) branch as it will soon get merged into main.
+You should follow [this](https://gist.github.com/MarcDiethelm/7303312#file-contributing-md) guide to contribute code to the repo. Ideally, try to work on the [new-base](https://github.com/xandernp/Meta/tree/new-base) branch as it will soon get merged into main.
