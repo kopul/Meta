@@ -18,13 +18,12 @@
 </p>
 
 Meta is a fork of Raven b+ which was built on top of Raven b3 that I have definitely and 100% *improved* with a large array of new features
+
+## Downloads
+In the releases on the right
   
 ## Discord:
 https://discord.gg/gV9A4T6X8Q
-
-## Downloads
-[Latest Stable](https://github.com/xandernp/Meta/raw/main/build/libs/%5B1.8.9%5D%20BetterKeystrokes%20V-1.2.jar) <br>
-[Latest Experimental](https://github.com/xandernp/Meta/raw/lunarkeystrokes/build/libs/%5B1.8.9%5DLunarKeystrokes%20B-1.jar) (you should probably use stable instead)<br>
 
 ## Build
 1. [Get](https://gradle.org/next-steps/?version=2.7&format=bin) and [install](https://docs.gradle.org/current/userguide/installation.html) gradle.
