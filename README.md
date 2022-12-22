@@ -32,7 +32,7 @@ https://discord.gg/gV9A4T6X8Q
 4. Find the build in builds/libs in the directory you cloned this to.
 
 ## Known bugs
- - Discord RPC don't work on macOS
+ - Discord RPC doesn't work on macOS
  - Basically 100 other bugs which are minor but are also getting fixed.
  
 ## Improved Modules
