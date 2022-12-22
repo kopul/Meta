@@ -17,27 +17,22 @@
   <img src="https://img.shields.io/github/languages/top/Kopamed/Raven-bPLUS" alt="Java"/>
 </p>
 
-<p align="center"> 
-  Meta is a fork of Raven b+ which is built on top of Raven b3, adding quality of life improvements, bug fixes, and much more.
-</p>
-
-## Discord:
-https://discord.gg/gV9A4T6X8Q
-
-or dm me directly - xander#5062
+Meta is a fork of Raven b+ which was built on top of Raven b3 that I have definitely and 100% *improved* with a large array of new features
 
 ## Downloads
-[Latest Stable](https://github.com/xandernp/Meta/raw/main/build/libs/%5B1.8.9%5D%20BetterKeystrokes%20V-1.2.jar) <br>
-[Latest Experimental](https://github.com/xandernp/Meta/raw/lunarkeystrokes/build/libs/%5B1.8.9%5DLunarKeystrokes%20B-1.jar) (basically stable but with some more stuff)<br>
+In the releases on the right
+  
+## Discord:
+https://discord.gg/gV9A4T6X8Q
 
 ## Build
 1. [Get](https://gradle.org/next-steps/?version=2.7&format=bin) and [install](https://docs.gradle.org/current/userguide/installation.html) gradle.
 2. Download and clone repo to a folder.
-3. Open terminal/command prompt and type ./gradlew build
+3. Open command prompt/terminal and type ./gradlew build
 4. Find the build in builds/libs in the directory you cloned this to.
 
 ## Known bugs
- - Discord RPC don't work on DARWIN (Mac OS)
+ - Discord RPC doesn't work on macOS
  - Basically 100 other bugs which are minor but are also getting fixed.
  
 ## Improved Modules
