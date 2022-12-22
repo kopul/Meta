@@ -18,9 +18,8 @@
 </p>
 
 <p align="center"> 
-  Meta is a fork of Raven b+ which is built on top of Raven b3, that i work on in my free time adding quality of life improvements, bug fixes, and much more.
+  Meta is a fork of Raven b+ which was built on top of Raven b3.
 </p>
-
 ## Discord:
 https://discord.gg/gV9A4T6X8Q
 
