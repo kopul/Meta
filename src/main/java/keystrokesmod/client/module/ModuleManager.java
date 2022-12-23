@@ -94,7 +94,6 @@ public class ModuleManager {
       addModule(new BlockHit());
       addModule(new STap());
       addModule(new AutoWeapon());
-      addModule(new BedwarsOverlay());
 
       addModule(new ShiftTap());
       addModule(new FPSSpoofer());
