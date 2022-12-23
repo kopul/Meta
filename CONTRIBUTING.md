@@ -8,7 +8,7 @@ If you want to contribute to Meta and make it better, your help is very welcome.
 - Clone the fork on your local machine. Your remote repo on Github is called `origin`.
 - Add the original repository as a remote called `upstream`.
 - If you created your fork a while ago be sure to pull upstream changes into your local repository.
-- Create a new branch to work on! Branch from `new-base` preferably, else from `master`.
+- Create a new branch to work on! Branch from `new-base` preferably, else from `main`.
 - Implement/fix your feature, comment your code.
 - Follow the code style of the project, including indentation.
 - If the project has tests run them!
@@ -16,7 +16,7 @@ If you want to contribute to Meta and make it better, your help is very welcome.
 - Add or change the documentation as needed.
 - Squash your commits into a single commit with git's [interactive rebase](https://help.github.com/articles/interactive-rebase). Create a new branch if necessary.
 - Push your branch to your fork on Github, the remote `origin`.
-- From your fork open a pull request in the correct branch. Target the project's `develop` branch if there is one, else go for `master`!
+- From your fork open a pull request in the correct branch. Target the `new-base` branch, else go for `main`!
 - ...
 - Once the pull request is approved and merged you can pull the changes from `upstream` to your local repo and delete
 your extra branch(es).
