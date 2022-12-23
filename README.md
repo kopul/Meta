@@ -20,7 +20,7 @@
 Meta is a fork of Raven b+ which was built on top of Raven b3 that I have definitely and 100% *improved* with a large array of new features
 
 ## Downloads
-In the releases on the right
+[Here](https://github.com/xandernp/Meta/releases), I would recommend using the latest stable release
   
 ## Discord:
 https://discord.gg/gV9A4T6X8Q
